@@ -1,4 +1,4 @@
-## Mobil Uygulamalar dersi 1. Dönem 2. Yazılı Uygulama
+## Mobil Uygulamalar Dersi 1. Dönem 2. Yazılı Uygulama
 
 SORULAR
 (Önemli Not: Veri tipi ve isimlendirme seçimlerinde en uygun olanı tercih ediniz. Kendi uygulamam da örnek olarak İsim Soy isim için Nuri TIRAŞ, okul numarası için 571 değeri esas alınmış olup siz verilerinize göre bu değerleri değiştirmeniz gerekmektedir. KDV değeri %20 ve 1 $ = 35,22 TL olarak hesaplanacak.)
